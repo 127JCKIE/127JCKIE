@@ -1,9 +1,9 @@
 ## Hi, I'm Jaqueline! 🌱
 <br>
 🎓 3rd year Computer Science + Business student @ University of Georgia <br>
-💼 Product Management (User Analytics) Intern @ Infor 
-🤖 Currently applying Data Science principles with personal project <br>
-📊 Political Sentiment Analysis Dashboard 
+💼 Product Management (User Analytics) Intern @ Infor <br>
+🤖 Applying Python + Data Science principles <br>
+📊 Currently working on Political Sentiment Analysis Dashboard 
 
 
 
